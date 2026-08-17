@@ -1,8 +1,8 @@
 # FLStudioTime 🎵⏱️
 
-An international, lightweight, and free software to instantly calculate the total accumulated production time across all your FL Studio projects (`.flp`).
+Lightweight, and free software to instantly calculate the total accumulated production time across all your FL Studio projects (`.flp`).
 
-*Un logiciel international, léger et gratuit pour calculer instantanément le temps total cumulé passé sur l'ensemble de vos projets FL Studio (`.flp`).*
+*Un logiciel léger et gratuit pour calculer instantanément le temps total cumulé passé sur l'ensemble de vos projets FL Studio (`.flp`).*
 
 ---
 
